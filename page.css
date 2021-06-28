@@ -27,21 +27,21 @@ header{
     display: inline;
 }
 #sec1{
-    margin: 30px;
+    /* margin: 30px; */
     border:white 2px solid;
     border-top: blue 20px solid;
     padding: 20px;
     box-shadow:10px 10px 10px rgba(0, 0, 0, 0.63);
 }
 #sec2{
-    margin: 30px;
+    /* margin: 30px; */
     border:white 2px solid;
     border-top: rgb(0, 255, 42) 20px solid;
     padding: 20px;
     box-shadow:10px 10px 10px rgba(0, 0, 0, 0.63);
 }
 #sec3{
-    margin: 30px;
+    /* margin: 30px; */
     border:white 2px solid;
     border-top: rgb(255, 60, 0) 20px solid;
     padding: 20px;
@@ -49,28 +49,28 @@ header{
 }
 
 #sec4{
-    margin: 30px;
+    /* margin: 30px; */
     border:white 2px solid;
     border-top: rgb(255, 230, 0) 20px solid;
     padding: 20px;
     box-shadow:10px 10px 10px rgba(0, 0, 0, 0.63);
 }
 #sec5{
-    margin: 30px;
+    /* margin: 30px; */
     border:white 2px solid;
     border-top: rgb(0, 255, 255) 20px solid;
     padding: 20px;
     box-shadow:10px 10px 10px rgba(0, 0, 0, 0.63);
 }
 #sec6{
-    margin: 30px;
+    /* margin: 30px; */
     border:white 2px solid;
     border-top: rgb(87, 27, 67) 20px solid;
     padding: 20px;
     box-shadow:10px 10px 10px rgba(0, 0, 0, 0.63);
 }
 #sec7{
-    margin-top: 30px;
+    /* margin-top: 30px; */
     width: auto;
     border:dodgerblue 1px solid;
     padding-left: 20px;
@@ -128,3 +128,11 @@ head>h1{
     margin-left: 50%;
     
 }
+
+
+
+
+
+
+
+
