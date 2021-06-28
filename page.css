@@ -1,0 +1,130 @@
+html{
+    background-color:whitesmoke ;
+}
+#head{
+    text-align: left;
+    text-indent: 25px;
+    margin-top: -25px;
+}
+#top{
+   letter-spacing: 3px;
+   color:cornflowerblue ;
+   
+}
+#top2{
+    color:cornflowerblue ;
+    font-weight: lighter;
+}
+#top3{
+   margin-left: 90px; 
+}
+header{
+    display: inline-block;
+    font: bold;
+    color: orange;
+}
+#line{
+    display: inline;
+}
+#sec1{
+    margin: 30px;
+    border:white 2px solid;
+    border-top: blue 20px solid;
+    padding: 20px;
+    box-shadow:10px 10px 10px rgba(0, 0, 0, 0.63);
+}
+#sec2{
+    margin: 30px;
+    border:white 2px solid;
+    border-top: rgb(0, 255, 42) 20px solid;
+    padding: 20px;
+    box-shadow:10px 10px 10px rgba(0, 0, 0, 0.63);
+}
+#sec3{
+    margin: 30px;
+    border:white 2px solid;
+    border-top: rgb(255, 60, 0) 20px solid;
+    padding: 20px;
+    box-shadow:10px 10px 10px rgba(0, 0, 0, 0.63);
+}
+
+#sec4{
+    margin: 30px;
+    border:white 2px solid;
+    border-top: rgb(255, 230, 0) 20px solid;
+    padding: 20px;
+    box-shadow:10px 10px 10px rgba(0, 0, 0, 0.63);
+}
+#sec5{
+    margin: 30px;
+    border:white 2px solid;
+    border-top: rgb(0, 255, 255) 20px solid;
+    padding: 20px;
+    box-shadow:10px 10px 10px rgba(0, 0, 0, 0.63);
+}
+#sec6{
+    margin: 30px;
+    border:white 2px solid;
+    border-top: rgb(87, 27, 67) 20px solid;
+    padding: 20px;
+    box-shadow:10px 10px 10px rgba(0, 0, 0, 0.63);
+}
+#sec7{
+    margin-top: 30px;
+    width: auto;
+    border:dodgerblue 1px solid;
+    padding-left: 20px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color: dodgerblue;
+    
+}
+.oone{
+ font-size: 50px;   
+ margin-bottom: 20px;
+}
+.otwo{
+    color: darkblue;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+.othree {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.othree>div{
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+}
+#sec5 ul{
+    font-size: 60px;
+}
+
+.box{
+    background-color: rgb(174, 0, 255);
+    width: 300px;
+    height: 70px;
+    font-size: 50px;
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.box:hover{
+    zoom: 110%;
+}
+footer{
+    /* position: fixed; */
+    font-size: 20px;
+    background-color: white;
+}
+head>h1{
+    font-size: 100px;
+    margin-left: 50%;
+    
+}
